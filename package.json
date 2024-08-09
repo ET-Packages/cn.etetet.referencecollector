@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "cn.etetet.referencecollector",
   "displayName": "ET.ReferenceCollector",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "unity": "2022.3",
   "description": "一个unity脚本，可以挂在gameobject上实现资源引用",
   "author": {
@@ -14,10 +14,9 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "0.0.19"
+    "cn.etetet.core": "0.0.20"
   },
-  "publishConfig": 
-  { 
-    "registry": "https://npm.pkg.github.com/@ET-Packages" 
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
   }
 }
